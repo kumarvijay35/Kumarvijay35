@@ -1,44 +1,44 @@
-# CH Vijay Kumar — Backend Engineer
+# Vijay Kumar Chukka — Backend Engineer
 
-**Django REST Framework • RAG / AI Systems • Celery • Redis**
+**Django REST Framework • FastAPI • RAG / AI Systems • Celery • Redis**
 
 Backend engineer building production-grade REST APIs and AI-powered pipelines.
-2 live applications deployed on Render. Open to backend engineering roles in Bangalore.
+Open to backend and AI engineering roles in Bangalore.
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Projects
 
-| Project | Stack | Live Link | GitHub |
-|---|---|---|---|
-| E-Commerce REST API | Django, PostgreSQL, Celery, Redis, Razorpay, JWT | [Live](https://ecommerce-api-796y.onrender.com) | [Repo](https://github.com/kumarvijay35/ecommerce-api) |
-| RAG Document Chatbot | LangChain, ChromaDB, Groq LLaMA 3.3, HuggingFace | [Live](https://rag-document-chatbot-f4jy.onrender.com) | [Repo](https://github.com/kumarvijay35/rag-document-chatbot) |
+| Project | Stack | GitHub |
+| --- | --- | --- |
+| E-Commerce REST API | Django, PostgreSQL, Celery, Redis, Razorpay, JWT | [Repo](https://github.com/kumarvijay35/ecommerce-api) |
+| RAG Document Chatbot | Django, LangChain, ChromaDB, Groq LLaMA 3.3 | [Repo](https://github.com/kumarvijay35/rag-document-chatbot) |
+| RAG Inference Service | FastAPI, Pydantic, HuggingFace Embeddings, ChromaDB | [Repo](https://github.com/kumarvijay35/rag-inference-service) |
+| SNIP — URL Shortener | Django, PostgreSQL, Redis | [Repo](https://github.com/kumarvijay35/snip-url-shortener) |
 
 ---
 
 ## 🔧 What I Build
 
 - **Scalable REST APIs** — JWT auth, RBAC, payment integration, rate limiting
-- **Async task systems** — Celery + Redis for background jobs and email workflows  
-- **RAG AI Pipelines** — PDF ingestion → vector search → hallucination-free LLM responses
-- **Multi-tenant architecture** — per-user data isolation in document systems
+- **Async task systems** — Celery + Redis for background jobs and email workflows
+- **RAG AI pipelines** — PDF ingestion → vector search → grounded LLM responses
+- **Per-user data isolation** — scoped vector collections in document systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-Backend     → Python, Django, Django REST Framework, FastAPI
-AI / ML     → LangChain, ChromaDB, HuggingFace Embeddings, Groq LLaMA 3.3
-Async       → Celery, Redis
-Databases   → PostgreSQL, ChromaDB (Vector DB)
-Auth        → JWT, RBAC
-Payments    → Razorpay + HMAC-SHA256 webhook verification
-Dev Tools   → Git, Docker, Pytest, Swagger/OpenAPI, Gunicorn, Render
+- **Backend** → Python, Django, Django REST Framework, FastAPI
+- **AI / ML** → LangChain, ChromaDB, HuggingFace Embeddings, Groq LLaMA 3.3
+- **Async** → Celery, Redis
+- **Databases** → PostgreSQL, ChromaDB (Vector DB)
+- **Auth** → JWT, RBAC
+- **Payments** → Razorpay + HMAC-SHA256 webhook verification
+- **Dev Tools** → Git, Docker, Pytest, Swagger/OpenAPI, Gunicorn
 
 ---
 
 ## 📫 Contact
 
-📧 nameisvijay35@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/vijay-kumarchukka33a8522a0)
-📍 Bangalore, India
+📧 nameisvijay35@gmail.com  🔗 [LinkedIn](https://linkedin.com/in/vijay-kumar-ch-dev)  📍 Bangalore, India
